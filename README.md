@@ -1,4 +1,4 @@
-BINandroid
+BINandroid v0.1
 ==========
 
 ### 一个纯粹的Android bin开发环境，初始化于Android4.1.2版本，代码来源CyanogenMod10。

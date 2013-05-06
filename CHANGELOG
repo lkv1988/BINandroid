@@ -1,0 +1,13 @@
+更新日志：
+
+#2013.05.03
+建立项目，支持recovery bin等精简本地编译
+集成深度OS recovery
+
+#2013.05.03
+移除深度OS recovery，精简掉60MB空间
+
+#2013.05.06
+初始化版本号v0.1
+修复不能编译otatools的问题
+并添加.gitignore,忽略recovery device tags等文件的git操作
